@@ -1,0 +1,38 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "NewYear 2026",
+        "PN": "",
+        "MF": ""
+      },
+      "MID": "MID20315",
+      "MD": "",
+      "MT": "GBOM",
+      "MQNT": 0,
+      "MCost": 0.0,
+      "MQATG": "",
+      "ML": "",
+      "MDS": "",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/Files_App_icon_iOS.png"
+      ],
+      "GBOM_data": [
+        {
+          "MID": "MID20254",
+          "QTY": 2
+        },
+        {
+          "MID": "MID20266",
+          "QTY": 6
+        }
+      ]
+    }
+  ]
+}
