@@ -1,6 +1,23 @@
 {
   "inventory": [
     {
+      "GBOM_data": [
+        {
+          "MID": "MID20254",
+          "QTY": 2,
+          "REF": "",
+          "SupplierType": "",
+          "SupplierName": ""
+        },
+        {
+          "MID": "MID20266",
+          "QTY": 6,
+          "REF": "",
+          "SupplierType": "",
+          "SupplierName": ""
+        }
+      ],
+      "RepoCreatedAt": "2026-01-08T17:31:38+05:30",
       "MaterialTitle": {
         "Name": "NewYear 2026",
         "PN": "",
@@ -9,9 +26,9 @@
       "MID": "MID20315",
       "MD": "",
       "MT": "GBOM",
+      "MQATG": "",
       "MQNT": 0,
       "MCost": 0.0,
-      "MQATG": "",
       "ML": "",
       "MDS": "",
       "MAF1": "",
@@ -22,16 +39,6 @@
       "MR": "",
       "MaterialImages": [
         "https://upload.wikimedia.org/wikipedia/commons/d/d6/Files_App_icon_iOS.png"
-      ],
-      "GBOM_data": [
-        {
-          "MID": "MID20254",
-          "QTY": 2
-        },
-        {
-          "MID": "MID20266",
-          "QTY": 6
-        }
       ]
     }
   ]
